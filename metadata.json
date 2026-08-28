@@ -1,0 +1,6 @@
+{
+  "name": "Rightuu Audit",
+  "description": "Executive Data & Audit Intelligence Platform for user-uploaded Excel and CSV business records, analyzing financial performance, operational unit economics, anomalies, and strategic roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
